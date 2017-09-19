@@ -1,0 +1,77 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+/client-app-ref/build/
+/client-app-ref/nbbuild/
+client-app-ref/dist/
+client-app-ref/nbdist/
+/client-app/build/
+/client-app/nbbuild/
+client-app/dist/
+client-app/nbdist/
+.nb-gradle/
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+yarn-error.log
+# compiled output
+client-app-ref/tmp
+client-app-ref/out-tsc
+client-app/tmp
+client-app/out-tsc
+
+# dependencies
+/client-app-ref/node_modules
+/client-app/node_modules
+/client-app-ref/node
+/client-app/node
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+client-app/e2e/*.js
+client-app/e2e/*.map
+client-app-ref/e2e/*.js
+client-app-ref/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db

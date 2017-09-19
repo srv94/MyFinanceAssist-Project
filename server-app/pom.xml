@@ -3,11 +3,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.myFinanceAssist</groupId>
-    <artifactId>server-app-ref</artifactId>
-    <name>server-app-ref</name>
+    <artifactId>server-app</artifactId>
+    <name>server-app</name>
     <description>The MyFinanceAssist backend project</description>
     <packaging>pom</packaging>
-    <version>${project.service.version}</version>
+    <version>0.0.1-SNAPSHOT</version>
     <parent>
         <groupId>com.myFinanceAssist</groupId>
         <artifactId>parent</artifactId>

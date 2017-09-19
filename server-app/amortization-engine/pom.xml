@@ -5,7 +5,7 @@
     <groupId>com.myFinanceAssist</groupId>
     <artifactId>amortization-engine</artifactId>
     <packaging>jar</packaging>
-    <version>${project.amortization-engine.version}</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>amortization-engine</name>
     <description>amortization-engine for calculation of loan schedule</description>
     <parent>

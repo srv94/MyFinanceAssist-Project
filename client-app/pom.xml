@@ -6,7 +6,7 @@
     <artifactId>client-app</artifactId>
     <name>client-app</name>
     <description>MyFinanceAssist frontend project</description>
-    <version>${project.client.version}</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <parent>
         <groupId>com.myFinanceAssist</groupId>

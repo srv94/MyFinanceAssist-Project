@@ -5,7 +5,7 @@
 
 	<groupId>com.myFinanceAssist</groupId>
 	<artifactId>service-app</artifactId>
-	<version>${project.service.version}</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>service-app</name>
@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>com.myFinanceAssist.engine</groupId>
 			<artifactId>amortization-engine</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>${project.amortization-engine.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

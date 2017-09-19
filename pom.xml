@@ -8,15 +8,14 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<project.version>0.0.1-SNAPSHOT</project.version>
 		<project.client.version>0.0.1-SNAPSHOT</project.client.version>
 		<project.service.version>0.0.1-SNAPSHOT</project.service.version>
-		<project.amortization-engine.version>0.tion.engine.vers0.1-SNAPSHOT</project.amortization-engine.version>
+		<project.amortization-engine.version>0.0.1-SNAPSHOT</project.amortization-engine.version>
 	</properties>
 
 	<groupId>com.myFinanceAssist</groupId>
 	<artifactId>parent</artifactId>
-	<version>${project.version}</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>parent</name>
